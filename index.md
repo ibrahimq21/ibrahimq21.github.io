@@ -10,13 +10,11 @@ Blockchain Platform - Hyperledger, Fabric
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+Connect Me Here! [Linkedin](https://www.linkedin.com/in/ibrahimq21/).
 
 ### Jekyll Themes
 
